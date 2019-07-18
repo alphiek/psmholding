@@ -23,7 +23,8 @@ Holding Page for Paphos Stone Masons new Website.
 * [Gatsby Plugin Sitemap](https://www.gatsbyjs.org/packages/gatsby-plugin-sitemap/)
 * [Prettier](https://prettier.io/)
 * [React PropTypes](https://www.npmjs.com/package/prop-types)
-
+* [React NBSP](https://www.npmjs.com/package/react-nbsp)
+* [Typefaces](https://github.com/KyleAMathews/typefaces)
 
 ## License
 
