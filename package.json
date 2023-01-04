@@ -27,7 +27,7 @@
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-helmet": "^5.2.1",
-    "react-nbsp": "^1.2.1",
+    "react-nbsp": "^1.2.4",
     "styled-components": "^4.3.1",
     "typeface-roboto": "0.0.54",
     "typeface-roboto-slab": "0.0.72"
